@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Josh
-- 👀 I’m an Software Dev - Python/JavaScript/HTML/CSS 
-- 🌱 I’m currently focusing on building Web Apps / Websites 🌐
+- 👀 I’m an Data Analyst - Python/MySQL/Excel/PowerBI
+- 🌱 I’m currently building my data analytics business 📊
 - 📫 You can contact me by email: josh@joshgledhill.tech, I will get back to you as soon as possible! 
 
 <!---
