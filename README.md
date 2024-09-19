@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Josh
-- 👀 I’m an Data Analyst - Python/MySQL/Excel/PowerBI
-- 🌱 I’m currently building my data analytics business 📊
+- 👀 I build apps for fun or to help my life
+- 🌱 I’m currently building my first micro SAAS called Letterloom 
 - 📫 You can contact me by email: josh@joshgledhill.tech, I will get back to you as soon as possible! 
 
 <!---
