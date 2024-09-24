@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Josh
 - 👀 I build apps for fun or to help my life
-- 🌱 I’m currently building my first micro SAAS called Letterloom 
+- 🌱 I’m currently working on my first micro SAAS called Letterloom - https://www.letterlooom.com
 - 📫 You can contact me by email: josh@joshgledhill.tech, I will get back to you as soon as possible! 
 
 <!---
